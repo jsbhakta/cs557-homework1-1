@@ -24,7 +24,7 @@
 		<p>Inserted Text<ins> Hello World!!</ins></p>
 		<p>Subscripted Text<sub> Hello World!!</sub></p>
 		<p>Superscripted Text<sup> Hello World!!</sup></p>
-		<a href="table.html" target="_blank">Table Page</a>
+		<a href="table.php" target="_blank">Table Page</a>
 		<p><a href="#top">Go to top</a></p>
 	</body>
 </html>
